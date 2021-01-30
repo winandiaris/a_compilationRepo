@@ -4,13 +4,16 @@
 
 ## Python Basic
 - [Python RWID](#)
-- Python Erico
+- [Python Erico](#)
 
 ## Python OOP
-- OOP
-- CRUD OOP
+- [OOP](#)
+- [CRUD OOP](#)
 
 ## Django
-- Very Academy
-  - Backend DRF
-  - Frontend React
+- [CRUD - Pendaftaran Karyawan App (crispy forms)](#)
+
+## Django Rest Framework
+- Blog App - Very Academy
+  - [Backend DRF](#)
+  - [Frontend React](#)
