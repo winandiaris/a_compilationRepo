@@ -11,7 +11,7 @@
 - [CRUD OOP](#)
 
 ## Django
-- [CRUD - Employee App (Django, Bootstrap4, crispy forms, PostgreSQL)](https://github.com/ArisDjango/CrudEmployeeSimple)
+- [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> (Django, Bootstrap4, crispy forms, PostgreSQL)
 
 ## Django Rest Framework
 - Blog App - Very Academy
