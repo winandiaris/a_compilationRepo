@@ -3,17 +3,23 @@
 ## Algoritma & Interview
 
 ## Python Basic
-- [Python RWID](#)
-- [Python Erico](#)
+- [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
+- [Python Erico](https://github.com/ArisPython/PythonDasarErico)
 
 ## Python OOP
 - [OOP](#)
 - [CRUD OOP](#)
 
 ## Django
-- [CRUD - Pendaftaran Karyawan App (crispy forms)](#)
+- [CRUD - Employee App (Django, Bootstrap4, crispy forms)](https://github.com/ArisDjango/CrudEmployeeSimple)
 
 ## Django Rest Framework
 - Blog App - Very Academy
-  - [Backend DRF](#)
-  - [Frontend React](#)
+  - [Backend DRF](https://github.com/ArisDjango/CrudVeryAcademy)
+  - [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact)
+- [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
+- 
+## Scraping
+- [dfg](#)
+
+## Artificial Intelegence
