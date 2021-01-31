@@ -23,6 +23,6 @@
 - [dfg](#)
 
 ## Django ORM - PostgreSQL
-- B[est Practice](https://github.com/ArisDjango/orm-postgres)
+- [Best Practice](https://github.com/ArisDjango/orm-postgres)
 
 ## Artificial Intelegence
