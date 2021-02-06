@@ -12,6 +12,8 @@
 
 ## Django
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> __(Django, Bootstrap4, crispy forms, PostgreSQL)__
+- [BlogAntonio](https://github.com/ArisDjango/BlogAntonio)
+  - send email by django belum berhasil
 
 ## Django Rest Framework
 - Blog App - Very Academy
