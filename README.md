@@ -11,9 +11,19 @@
 - [CRUD OOP](#)
 
 ## Django
-- [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> __(Django, Bootstrap4, crispy forms, PostgreSQL)__
+- [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple)
+  - Template : Bootstrap4
+  - Model : PostgreSQL
+  - views: Function Based Views & Class based views
+  - Form : crispy forms
+  - Problem : belum ada form tanggal, image
 - [BlogAntonio](https://github.com/ArisDjango/BlogAntonio)
-  - send email by django belum berhasil
+  - Template : html/js/css
+  - Model : PostgreSQL
+  - Views : Function based views
+  - Form : Django form & ModelForm --> EmailPostForm & SearchForm (form), CommentForm (ModelForm)
+  - Fitur : 
+  - Problem: send email by django belum berhasil
 
 ## Django Rest Framework
 - Blog App - Very Academy
