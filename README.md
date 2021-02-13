@@ -25,6 +25,7 @@
   - Form : Django form & ModelForm --> EmailPostForm & SearchForm (form), CommentForm (ModelForm)
   - Fitur : Tag, Comment, Total Post, Latest Post, Most Commented Post, Similiar post, Search, feed, sitemap(xml)
   - Problem: belum otentifikasi, Form belum handle image, send email by django belum berhasil
+- [BookmarksImageApp](https://github.com/ArisDjango/SosmedAntonio)
 
 ## Django Rest Framework
 - Blog App - Very Academy
