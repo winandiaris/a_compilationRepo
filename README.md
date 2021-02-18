@@ -45,3 +45,6 @@
 
 ## Artificial Intelegence
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
+
+## Deployment
+- [Deploy](https://github.com/ArisOther/deploy)
