@@ -2,6 +2,9 @@
 
 ## Algoritma & Interview
 
+## Git
+- [git setting](https://github.com/ArisOther/gitAris)
+
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
 - [Python Erico](https://github.com/ArisPython/PythonDasarErico)
