@@ -50,4 +50,4 @@
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
 
 ## Deployment
-- [Deploy](https://github.com/ArisOther/deploy)
+- [WSL](https://github.com/ArisOther/deploy)
