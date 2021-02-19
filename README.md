@@ -14,14 +14,14 @@
 - [CRUD OOP](#)
 
 ## Django
-- [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple)
+- [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
   - Template : Bootstrap4
   - Model : PostgreSQL
   - views: Function Based Views & Class based views
   - Form : crispy forms
   - Fitur: Login user
   - Problem : belum ada form tanggal, image
-- [BlogAntonio](https://github.com/ArisDjango/BlogAntonio)
+- [BlogAntonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
   - Template : html/js/css
   - Model : PostgreSQL
   - Views : Function based views
@@ -50,4 +50,4 @@
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
 
 ## Deployment
-- [WSL](https://github.com/ArisOther/deploy)
+- [WSL2](https://github.com/ArisOther/deploy)
