@@ -31,8 +31,9 @@
 - [RWID Selenium Youtube](https://github.com/ArisScrap/selenYoutube)
 
 
-## Django ORM - PostgreSQL
-- [Best Practice](https://github.com/ArisDjango/orm-postgres)
+## Database
+- [Postgres - Django](https://github.com/ArisDjango/orm-postgres)
+- [Redis - WSL](#)
 
 ## Artificial Intelegence
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
