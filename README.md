@@ -1,6 +1,7 @@
 # PYTHON
 
 ## Algoritma & Interview
+- [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
 - [Python Algo - DataStruc - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 - [Python Interview problem - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
@@ -49,3 +50,4 @@
 - [WSL2](https://github.com/ArisOther/deploy)
 - [Docker WSL](https://github.com/ArisOther/deploy/blob/main/DOCKER-WSL.md)
 - [Docker - Programmer Jaman Now](https://github.com/ArisOther/deploy/blob/main/DOCKER-PJN.md)
+- [AWS - Dicoding Academy](https://github.com/ArisOther/aws-dicoding)
