@@ -23,8 +23,10 @@
 
 ## Django
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
-- [BlogAntonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
-- [BookmarksImageApp](https://github.com/ArisDjango/SosmedAntonio)
+- [Blog-Antonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
+- [BookmarksApp-Antonio](https://github.com/ArisDjango/SosmedAntonio)
+- [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonio) 
+
 
 ## Django Rest Framework
 - Blog App - Very Academy
