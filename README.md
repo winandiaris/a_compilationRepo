@@ -55,6 +55,10 @@
 - [Web Architecture]()
 - [Django Scaling Article](https://github.com/ArisDjango/DjangoBook/blob/main/DjangoScaling.md)
 
+## Other
+- [RabbitMQ]()
+## ========================================
+
 ## Artificial Intelegence
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
 
