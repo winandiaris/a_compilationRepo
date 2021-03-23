@@ -21,7 +21,7 @@
 ## Git
 - [git setting](https://github.com/ArisOther/gitAris)
 
-## =================================================================================================
+## ==========================================
 
 ## Django
 - [Django - Book/Article](https://github.com/ArisDjango/DjangoBook)
@@ -39,7 +39,7 @@
   - [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact)
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
-## ===============================================================================================
+## =========================================
 
 
 ## Database
