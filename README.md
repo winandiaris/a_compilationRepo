@@ -6,7 +6,7 @@
 - [Python Algo - DataStruc - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 - [Python Interview problem - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
 - [Python AllAlgo - DataStruc](https://github.com/AllAlgorithms/python)
-- [Pthon the Algo](https://github.com/TheAlgorithms/Python)
+- [Pthon the Algo](https://github.com/TheAlgorithms/Python)<br>
 
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
@@ -40,8 +40,6 @@
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
 ## =========================================
-
-
 ## Database
 - [ORM - Book/Article](https://github.com/ArisDjango/orm-postgres/blob/main/ORM-article.md)
 - [Postgres - Django ORM](https://github.com/ArisDjango/orm-postgres)
@@ -53,6 +51,9 @@
 - [Docker - Programmer Jaman Now](https://github.com/ArisOther/deploy/blob/main/DOCKER-PJN.md)
 - [AWS - Dicoding Academy](https://github.com/ArisOther/aws-dicoding)
 
+## Architecture
+- [Web Architecture]()
+- [Django Scaling Article](https://github.com/ArisDjango/DjangoBook/blob/main/DjangoScaling.md)
 
 ## Artificial Intelegence
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
