@@ -3,10 +3,12 @@
 ## Algoritma & Interview
 - [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
-- [Python Algo - DataStruc - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
-- [Python Interview problem - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
-- [Python AllAlgo - DataStruc](https://github.com/AllAlgorithms/python)
-- [Pthon the Algo](https://github.com/TheAlgorithms/Python)<br>
+- [Algo - Data Structure - AllAlgo](https://github.com/AllAlgorithms/python)
+- [Algo - the Algorithm](https://github.com/TheAlgorithms/Python)
+- [Algo - Data Structure - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+- [Python Interview - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
+- [Python Interview - For fresher & experienxed - DataFlair](https://data--flair-training.cdn.ampproject.org/c/s/data-flair.training/blogs/django-interview-questions-and-answers/amp/)
+<br>
 
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
@@ -30,7 +32,7 @@
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
 - [Blog-Antonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
 - [BookmarksApp-Antonio](https://github.com/ArisDjango/SosmedAntonio)
-- [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonio) 
+- [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonioReborn) 
 
 
 ## Django Rest Framework - Project
