@@ -50,6 +50,7 @@
 - [WSL2](https://github.com/ArisOther/deploy)
 - [Docker WSL](https://github.com/ArisOther/deploy/blob/main/DOCKER-WSL.md)
 - [Docker - Programmer Jaman Now](https://github.com/ArisOther/deploy/blob/main/DOCKER-PJN.md)
+- [Docker-Pawamoy - Django,gunicorn,psql,redis](https://github.com/ArisOther/Docker-pawamoy)
 - [AWS - Dicoding Academy](https://github.com/ArisOther/aws-dicoding)
 
 ## Architecture
