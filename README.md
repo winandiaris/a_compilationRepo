@@ -45,6 +45,7 @@
 - [ORM - Book/Article](https://github.com/ArisDjango/orm-postgres/blob/main/ORM-article.md)
 - [Postgres - Django ORM](https://github.com/ArisDjango/orm-postgres)
 - [Redis - WSL](https://github.com/ArisDjango/orm-postgres/blob/main/redis.md)
+- [memchaced](https://github.com/ArisDjango/orm-postgres/blob/main/memchace.md)
 
 ## Deployment
 - [WSL2](https://github.com/ArisOther/deploy)
