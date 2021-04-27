@@ -37,7 +37,7 @@
 
 
 ## Django Rest Framework - Project
-- Blog App - Very Academy --> [Backend DRF](https://github.com/ArisDjango/CrudVeryAcademy) & [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact)
+- [Blog App - Very Academy]((https://github.com/ArisDjango/CrudVeryAcademy)) --> [Backend DRF](https://github.com/ArisDjango/CrudVeryAcademy) & [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact)
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
 ## =========================================
@@ -49,10 +49,9 @@
 
 ## Deployment
 - [WSL2](https://github.com/ArisOther/deploy)
-- [Docker WSL](https://github.com/ArisOther/deploy/blob/main/DOCKER-WSL.md)
-- [Docker - Programmer Jaman Now](https://github.com/ArisOther/deploy/blob/main/DOCKER-PJN.md)
-- [Docker-Pawamoy - Django,gunicorn,psql,redis](https://github.com/ArisOther/Docker-pawamoy)
-- [AWS - Dicoding Academy](https://github.com/ArisOther/aws-dicoding)
+- [Docker](https://github.com/ArisOther/deploy/blob/main/DOCKER.md)
+- [AWS](https://github.com/ArisOther/deploy/blob/main/aws.md)
+
 
 ## Architecture
 - [Web Architecture]()
