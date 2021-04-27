@@ -48,9 +48,9 @@
 - [memchaced](https://github.com/ArisDjango/orm-postgres/blob/main/memchace.md)
 
 ## Deployment
-- [WSL2](https://github.com/ArisOther/deploy)
 - [Docker](https://github.com/ArisOther/deploy/blob/main/DOCKER.md)
 - [AWS](https://github.com/ArisOther/deploy/blob/main/aws.md)
+- [WSL2](https://github.com/ArisOther/deploy)
 
 
 ## Architecture
