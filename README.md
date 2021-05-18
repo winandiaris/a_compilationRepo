@@ -48,6 +48,7 @@
 - [memchaced](https://github.com/ArisDjango/orm-postgres/blob/main/memchace.md)
 
 ## Deployment
+- [Django, Nginx, uwsgi/gunicorn](https://github.com/ArisOther/deploy/blob/main/django-uwsgi-nginx.md)
 - [Docker](https://github.com/ArisOther/deploy/blob/main/DOCKER.md)
 - [AWS](https://github.com/ArisOther/deploy/blob/main/aws.md)
 - [WSL2](https://github.com/ArisOther/deploy)
