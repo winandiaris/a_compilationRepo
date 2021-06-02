@@ -46,6 +46,7 @@
 - [Postgres - Django ORM](https://github.com/ArisDjango/orm-postgres)
 - [Redis - WSL](https://github.com/ArisDjango/orm-postgres/blob/main/redis.md)
 - [memchaced](https://github.com/ArisDjango/orm-postgres/blob/main/memchace.md)
+- [dumpdata-fixtures-django](https://github.com/ArisDjango/orm-postgres/blob/main/dumpdata-django.md)
 
 ## Deployment
 - [Django, Nginx, uwsgi/gunicorn](https://github.com/ArisOther/deploy/blob/main/django-uwsgi-nginx.md)
