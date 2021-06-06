@@ -10,6 +10,9 @@
   - mv /home/server/folder/test/ /home/server/folder/tes2/ --> cut folder/rename folder
   - mv /home/server/folder/test/* /home/server/folder/tes2 --> cut semua isi test ke folder test2 tenpa menghapus folder test
   - mv -f /path/subfolder/{.,}* /path/ --> termask hidden folder
+- rm --> hapus
+  - rm tes/file.txt --> hapus file
+  - rm -r tes --> hapus folder dan isinya
 - cd .. --> moves up one directory
 - cd ~ --> moves to home directory
 - pwd --> present working directory
