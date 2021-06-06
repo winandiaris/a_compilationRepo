@@ -5,11 +5,11 @@
 - ls --> lists the contents of the directory
 - ll --> lists the contents of the directory length-wise
 - cp --> copies a file
- - cp -r /home/server/folder/test/. /home/server/  --> copy direktori dan isi ke tempat lain
+  - cp -r /home/server/folder/test/. /home/server/  --> copy direktori dan isi ke tempat lain
 - mv --> moves a directory
- - mv /home/server/folder/test/ /home/server/folder/tes2/ --> cut folder/rename folder
- - mv /home/server/folder/test/* /home/server/folder/tes2 --> cut semua isi test ke folder test2 tenpa menghapus folder test
- - mv -f /path/subfolder/{.,}* /path/ --> termask hidden folder
+  - mv /home/server/folder/test/ /home/server/folder/tes2/ --> cut folder/rename folder
+  - mv /home/server/folder/test/* /home/server/folder/tes2 --> cut semua isi test ke folder test2 tenpa menghapus folder test
+  - mv -f /path/subfolder/{.,}* /path/ --> termask hidden folder
 - cd .. --> moves up one directory
 - cd ~ --> moves to home directory
 - pwd --> present working directory
