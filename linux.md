@@ -46,3 +46,5 @@
 - du --> displays disk usage of a directory
 - rm --> removes files/directories
 - find --> search given directory for namestring and display it
+- nano
+- vi/vim
