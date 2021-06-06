@@ -63,6 +63,10 @@
 - [RabbitMQ]()
 ## ========================================
 
+## Linux
+- [Command]()
+
+
 ## Artificial Intelegence
 - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
 
