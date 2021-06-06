@@ -64,7 +64,7 @@
 ## ========================================
 
 ## Linux
-- [Command]()
+- [Command](https://github.com/winandiaris/a_compilationRepo/blob/main/linux.md)
 
 
 ## Artificial Intelegence
