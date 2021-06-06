@@ -5,7 +5,11 @@
 - ls --> lists the contents of the directory
 - ll --> lists the contents of the directory length-wise
 - cp --> copies a file
+ - cp -r /home/server/folder/test/. /home/server/  --> copy direktori dan isi ke tempat lain
 - mv --> moves a directory
+ - mv /home/server/folder/test/ /home/server/folder/tes2/ --> cut folder/rename folder
+ - mv /home/server/folder/test/* /home/server/folder/tes2 --> cut semua isi test ke folder test2 tenpa menghapus folder test
+ - mv -f /path/subfolder/{.,}* /path/ --> termask hidden folder
 - cd .. --> moves up one directory
 - cd ~ --> moves to home directory
 - pwd --> present working directory
@@ -48,3 +52,23 @@
 - find --> search given directory for namestring and display it
 - nano
 - vi/vim
+
+### YUM
+- yum list updates
+- yum update
+- yum update --security --> hanya update security
+- sudo yum update httpd --> update package tertentu
+- yum list installed
+- yum list installed docker --> cek package terintall atau tidak
+- yum list | grep docker
+- yum install nginx mariadb-server php-fpm
+- sudo yum localinstall foo.rpm --> install dari local file 
+- sudo yum https://server1.cyberciti.biz/foo.rpm --> dari http mirror
+- yum downgrade nginx
+- yum reinstall httpd
+- yum remove httpd --> uninstall
+- yum grouplist
+- yum groupinstall "Development Tools"
+- yum groupupdate "Development Tools"
+- yum groupremove "Development Tools"
+- yum groupinfo 'Development Tools'
