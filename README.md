@@ -25,8 +25,8 @@
 
 ## ==========================================
 
-## Django
-- [Django - Book/Article](https://github.com/ArisDjango/DjangoBook)
+## Book
+- [EBook/Article](https://github.com/ArisDjango/DjangoBook)
 
 ## Django - Monolith - Project
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
