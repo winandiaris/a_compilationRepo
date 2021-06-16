@@ -37,7 +37,7 @@
 
 
 ## Django Rest Framework - Project
-- [Blog App - Very Academy]((https://github.com/ArisDjango/CrudVeryAcademy)) --> [Backend DRF](https://github.com/ArisDjango/CrudVeryAcademy) & [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact)
+- [Blog App - Very Academy]((https://github.com/ArisDjango/CrudVeryAcademy)) --> [Backend DRF](https://github.com/ArisDjango/CrudVeryAcademy) & [Frontend React](https://github.com/ArisDjango/CrudVeryAcademyReact2)
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
 ## =========================================
