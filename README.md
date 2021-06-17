@@ -1,5 +1,8 @@
 # PYTHON
 
+## Book
+- [EBook/Article](https://github.com/ArisDjango/DjangoBook)
+
 ## Algoritma & Interview
 - [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
@@ -24,9 +27,6 @@
 - [git setting](https://github.com/ArisOther/gitAris)
 
 ## ==========================================
-
-## Book
-- [EBook/Article](https://github.com/ArisDjango/DjangoBook)
 
 ## Django - Monolith - Project
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
