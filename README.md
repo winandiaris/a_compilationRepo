@@ -34,6 +34,7 @@
 - [Blog-Antonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
 - [BookmarksApp-Antonio](https://github.com/ArisDjango/SosmedAntonio)
 - [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonioReborn)
+- [OlineShop-Very](https://github.com/ArisDjango/ecomVery)
 - [Educa-Antonio](https://github.com/ArisDjango/EducaAntonio)
 
 
