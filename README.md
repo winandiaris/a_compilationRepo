@@ -33,8 +33,8 @@
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
 - [Blog-Antonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
 - [BookmarksApp-Antonio](https://github.com/ArisDjango/SosmedAntonio)
-- [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonioReborn) --> [Link Source](https://github.com/veryacademy/django-ecommerce-project)
-- [OlineShop-Very](https://github.com/ArisDjango/ecomVery)
+- [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonioReborn) 
+- [OlineShop-Very](https://github.com/ArisDjango/ecomVery) --> [Link Source](https://github.com/veryacademy/django-ecommerce-project) 
 - [Educa-Antonio](https://github.com/ArisDjango/EducaAntonio)
 
 
