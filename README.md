@@ -78,3 +78,5 @@
 - [RWID ScrapDetik](https://github.com/ArisScrap/scrapingDetik)
 - [RWID Selenium Youtube](https://github.com/ArisScrap/selenYoutube)
 
+## Laravel
+- Up and Running book
