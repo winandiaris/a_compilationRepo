@@ -11,8 +11,13 @@
 - [Algo - Data Structure - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 - [Python Interview - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
 - [Python Interview - For fresher & experienxed - DataFlair](https://data--flair-training.cdn.ampproject.org/c/s/data-flair.training/blogs/django-interview-questions-and-answers/amp/)
+- [Django interview 150+](https://www.kausalvikash.in/python-django-interview-questions-and-answers-for-freshers/)
 - [Django Interview 50 - Edureka 2022](https://www.edureka.co/blog/interview-questions/django-interview-questions/)
 - [Django Interview 30 - interviewbit 2021](https://www.interviewbit.com/django-interview-questions/)
+- [Web API ](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
+- [DRF - 30](https://reposhub.com/python/natural-language-processing/PragatiVerma18-DRF-Interview-Prep.html)
+- [DRF - 28](https://www.fatalerrors.org/a/drf-interview-questions-and-summary.html)
+- 
 <br>
 
 ## Python Basic
