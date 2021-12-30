@@ -11,6 +11,8 @@
 - [Algo - Data Structure - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
 - [Python Interview - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
 - [Python Interview - For fresher & experienxed - DataFlair](https://data--flair-training.cdn.ampproject.org/c/s/data-flair.training/blogs/django-interview-questions-and-answers/amp/)
+- [Django Interview 50 - Edureka 2022](https://www.edureka.co/blog/interview-questions/django-interview-questions/)
+- [Django Interview 30 - interviewbit 2021](https://www.interviewbit.com/django-interview-questions/)
 <br>
 
 ## Python Basic
