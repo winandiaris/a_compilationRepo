@@ -89,3 +89,4 @@
 
 ## Laravel
 - Up and Running book
+-[tes slide](https://docs.google.com/presentation/d/10SXecYH1MBlI3xwt4OMhY14k0vabW7WydtbQqpZnfQk/edit?usp=sharing)
