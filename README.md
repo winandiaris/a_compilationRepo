@@ -42,6 +42,7 @@
 - [BookmarksApp-Antonio](https://github.com/ArisDjango/SosmedAntonio)
 - [OnlineShop-Antonio](https://github.com/ArisDjango/OnlineShopAntonioReborn) --> [Link Book](https://drive.google.com/file/d/14IpT-bfkBDlQoyV_qRJQ3VfdvLQ8H3kM/view)
 - [OlineShop-Very](https://github.com/ArisDjango/ecomVery) --> [Link Source](https://github.com/veryacademy/django-ecommerce-project) --> [Video](https://www.youtube.com/watch?v=UqSJCVePEWU&list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_)
+- [EcommerceVery - NextJs](#) --> [Link Source](#) --> [Video](https://www.youtube.com/watch?v=AuRmc9OTC1s&list=PLOLrQ9Pn6cayDs8VMTWyvjrVkbnK15Juo)
 - [Educa-Antonio](https://github.com/ArisDjango/EducaAntonio)
 
 
