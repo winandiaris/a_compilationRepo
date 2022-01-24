@@ -1,6 +1,6 @@
 # BOOK
 - [EBook/Article](https://github.com/ArisDjango/DjangoBook)
-# Artificial Intelegence / Data Science 
+# AI / Data Science 
 - Data Science
   - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
   - [Real world data science - g-collab](https://colab.research.google.com/drive/1IHN7qcaBUgr1vZ5YZPQTBsAEcKg0e_c5) --> [Book-2016](https://drive.google.com/file/d/1oQsW7_r7UtTKMBzqyvQ-_HDBj00KV-k-/view?usp=sharing)
