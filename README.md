@@ -2,12 +2,17 @@
 - [EBook/Article](https://github.com/ArisDjango/DjangoBook)
 # AI / Data Science 
 - Data Science
-  - [Baba data Science](https://github.com/ArisArtificial/baba-data-science)
-  - [Real world data science - g-collab](https://colab.research.google.com/drive/1IHN7qcaBUgr1vZ5YZPQTBsAEcKg0e_c5) --> [Book-2016](https://drive.google.com/file/d/1oQsW7_r7UtTKMBzqyvQ-_HDBj00KV-k-/view?usp=sharing)
+  - Real world data science --> [google-collab](https://colab.research.google.com/drive/1IHN7qcaBUgr1vZ5YZPQTBsAEcKg0e_c5) --> [Book-2016](https://drive.google.com/file/d/1oQsW7_r7UtTKMBzqyvQ-_HDBj00KV-k-/view)
+  - Data Science Bootcamp 2022: 5 Data Science --> [udemy](https://www.udemy.com/course/data-science-bootcamp-with-python/learn/lecture/25470578?start=15#overview)
+  - Baba data Science --> [source](https://github.com/ArisArtificial/baba-data-science)
 - Data Analysis
-  - pass  
+  - pass
 - Data Engineering
-  - [Big Data]() --> [Book]()
+  - Big Data Concepts Technology and Architecture by Balamurugan Balusamy - 2021 --> [Summary]() --> [Book](https://drive.google.com/file/d/1FFbnkUk9RBcpw73mGi1Kn97045pqlSBJ/view?usp=sharing)
+  - Big Data analytics concepts] --> [Summary](https://github.com/ArisArtificial/bigdata/blob/main/README.md) --> Book offline
+  - Data engineer in production , AWS, GCP, pyspark dll --> [Book](Data Science in Production Building Scalable Model Pipelines with Python - 2020)
+  - Data Engineering IBM --> [coursera (inactive)](https://www.coursera.org/professional-certificates/ibm-data-engineer#courses) --> [source]()
+  
 # FRONTEND / FULLSTACK
 - [React](https://github.com/winandiaris/b_other/blob/main/react-collection.md)
   - Fullstack React with typescript & Next --> [Book](https://drive.google.com/file/d/1oZpbc4eR2GABea1djTQk-9UibtHtRQ8n/view)
