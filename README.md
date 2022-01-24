@@ -1,8 +1,8 @@
-# PYTHON
-
-## Book
+# BOOK
 - [EBook/Article](https://github.com/ArisDjango/DjangoBook)
-
+# FRONTEND
+- [Frontend repo](https://github.com/winandiaris/b_other)
+# BACKEND
 ## Algoritma & Interview
 - [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
