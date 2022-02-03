@@ -8,7 +8,7 @@
 - Data Analysis
   - pass
 - Data Engineering
-  - Big Data Concepts Technology and Architecture by Balamurugan Balusamy - 2021 --> [Summary](https://github.com/ArisArtificial/bigdata/blob/main/big%20data%20tech.md) --> [Book](https://drive.google.com/file/d/1FFbnkUk9RBcpw73mGi1Kn97045pqlSBJ/view?usp=sharing)
+  - [Big Data Concepts Technology and Architecture by Balamurugan Balusamy - 2021](https://github.com/ArisArtificial/bigdata/blob/main/big%20data%20tech.md) --> [Book](https://drive.google.com/file/d/1FFbnkUk9RBcpw73mGi1Kn97045pqlSBJ/view?usp=sharing)
   - Big Data analytics concepts] --> [Summary](https://github.com/ArisArtificial/bigdata/blob/main/README.md) --> Book offline
   - Data engineer in production , AWS, GCP, pyspark dll --> [Book](Data Science in Production Building Scalable Model Pipelines with Python - 2020)
   - Data Engineering IBM --> [coursera (inactive)](https://www.coursera.org/professional-certificates/ibm-data-engineer#courses) --> [source]()
