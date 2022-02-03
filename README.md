@@ -37,7 +37,7 @@
 
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
-- [Python Erico](https://github.com/ArisPython/PythonDasarErico)
+- [Python Erico](https://github.com/ArisPython/PythonDasarErico) --> [replit](https://replit.com/@winandiaris/PythonDasarErico)
 - [Pipenv docs](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
 
 ## Python OOP
