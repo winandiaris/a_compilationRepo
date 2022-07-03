@@ -81,6 +81,8 @@
 - [Docker](https://github.com/ArisOther/deploy/blob/main/DOCKER.md)
 - [AWS](https://github.com/ArisOther/deploy/blob/main/aws.md)
 - [WSL2](https://github.com/ArisOther/deploy)
+- Deploy portofolio list:
+  - pawamoy docker prototype --> DO --> http://167.172.70.208:8000/
 
 
 ## Architecture
