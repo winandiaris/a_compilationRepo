@@ -83,6 +83,7 @@
 - [WSL2](https://github.com/ArisOther/deploy)
 - Deploy portofolio list:
   - pawamoy docker prototype --> DO --> http://167.172.70.208:8000/
+  - blog antonio --> DO --> http://167.172.70.208:8002/
 
 
 ## Architecture
