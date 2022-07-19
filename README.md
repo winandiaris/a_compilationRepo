@@ -91,7 +91,7 @@
 - [Django Scaling Article](https://github.com/ArisDjango/DjangoBook/blob/main/DjangoScaling.md)
 
 ## Other
-- [RabbitMQ]()
+- [RabbitMQ - Ubuntu](https://www.rabbitmq.com/install-debian.html)
 ## ========================================
 
 ## Linux
