@@ -84,6 +84,7 @@
 - Deploy portofolio list:
   - pawamoy docker prototype --> DO --> http://167.172.70.208:8000/
   - blog antonio --> DO --> http://167.172.70.208:8002/
+  - onlineshop-antonio --> DO http://167.172.70.208:8003/
 
 
 ## Architecture
