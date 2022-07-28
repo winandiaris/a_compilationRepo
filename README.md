@@ -95,6 +95,10 @@
 - [RabbitMQ - Ubuntu](https://www.rabbitmq.com/install-debian.html)
 ## ========================================
 
+
+## ODOO
+- [Odoo 15 development esentials - repo](https://github.com/PacktPublishing/Odoo-15-Development-Essentials)
+
 ## Linux
 - [Command](https://github.com/winandiaris/a_compilationRepo/blob/main/linux.md)
 
