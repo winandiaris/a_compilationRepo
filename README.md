@@ -99,6 +99,7 @@
 
 ## ODOO
 - [Odoo 15 development esentials - repo](https://github.com/PacktPublishing/Odoo-15-Development-Essentials)
+- [Odoo personal project](https://github.com/ArisPython/odoo)
 
 ## Linux
 - [Command](https://github.com/winandiaris/a_compilationRepo/blob/main/linux.md)
