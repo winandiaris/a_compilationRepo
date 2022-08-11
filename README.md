@@ -68,6 +68,8 @@
 - [EcommerceVery - NextJs](#) --> [Link Source](#) --> [Video](https://www.youtube.com/watch?v=AuRmc9OTC1s&list=PLOLrQ9Pn6cayDs8VMTWyvjrVkbnK15Juo)
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
+## FastAPI
+- Building Python Web APIs with FastAPI [source book](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI/tree/main/ch01) [repo local](https://github.com/ArisPython/fastapi)
 ## =========================================
 ## Database
 - [ORM - Book/Article](https://github.com/ArisDjango/orm-postgres/blob/main/ORM-article.md)
