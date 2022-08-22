@@ -69,7 +69,7 @@
 - [DRF Krystian](https://github.com/ArisDjango/CrudPythonKrystian)
 
 ## FastAPI
-- Building Python Web APIs with FastAPI [source book](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI/tree/main/ch01) [repo local](https://github.com/ArisPython/fastapi)
+- Building Python Web APIs with FastAPI [E-Book](https://drive.google.com/file/d/1FOfUGQQea9kWZ7YZXLGCpSkMC_apHDLq/view?usp=sharing)  [source book](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI/tree/main/ch01) [repo local](https://github.com/ArisPython/fastapi)
 ## =========================================
 ## Database
 - [ORM - Book/Article](https://github.com/ArisDjango/orm-postgres/blob/main/ORM-article.md)
