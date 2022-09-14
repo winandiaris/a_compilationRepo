@@ -42,6 +42,7 @@
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
 - [Python Erico](https://github.com/ArisPython/PythonDasarErico) --> [replit](https://replit.com/@winandiaris/PythonDasarErico)
 - [Pipenv docs](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
+- [Upgrade python ubuntu ke versi terbaru](https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux)
 
 ## Python OOP
 - [OOP - Arvimal](https://github.com/arvimal/Python-and-OOP)
