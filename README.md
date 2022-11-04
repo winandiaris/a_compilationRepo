@@ -6,6 +6,7 @@
 - [Dicoding - AWS Practitioner](https://github.com/ArisOther/aws-dicoding)
 - [Dicoding - AWS Architect](https://github.com/ArisOther/AWS-dicoding-architect)
 - [Orbit - AWS Practitioner](https://github.com/ArisOther/Orbit-aws)
+- [Book - AWS Practitioner](https://github.com/ArisOther/aws_book) --> [Book](https://drive.google.com/file/d/1_YkuFkQ6uKjqOqMCiMKeGThRLdYQQWF1/view?usp=sharing)
 # AI / Data Science 
 - Data Science
   - Real world data science --> [google-collab](https://colab.research.google.com/drive/1IHN7qcaBUgr1vZ5YZPQTBsAEcKg0e_c5) --> [Book-2016](https://drive.google.com/file/d/1oQsW7_r7UtTKMBzqyvQ-_HDBj00KV-k-/view)
