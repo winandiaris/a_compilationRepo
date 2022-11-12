@@ -27,6 +27,9 @@
   - Shama_Hoque_Full_Stack_React_Projects_Learn_MERN_stack_development --> [Book](https://drive.google.com/file/d/18AKMHrB4YmMwDNo4-ydEbVDON8OL9Ln6/view?usp=sharing)
 # BACKEND
 ## Algoritma & Interview
+
+<details>
+  <summary>Algoritma</summary>
 - [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
 - [Algo - Data Structure - AllAlgo](https://github.com/AllAlgorithms/python)
@@ -42,7 +45,7 @@
 - [DRF - 28](https://www.fatalerrors.org/a/drf-interview-questions-and-summary.html)
 - 
 <br>
-
+</details>
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
 - [Python Erico](https://github.com/ArisPython/PythonDasarErico) --> [replit](https://replit.com/@winandiaris/PythonDasarErico)
