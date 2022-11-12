@@ -36,6 +36,11 @@
 - [Algo - Data Structure - AllAlgo](https://github.com/AllAlgorithms/python)
 - [Algo - the Algorithm](https://github.com/TheAlgorithms/Python)
 - [Algo - Data Structure - interview](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+</details>  
+  
+<details>
+  <summary>Interview</summary>
+  
 - [Python Interview - devAmoghS](https://github.com/devAmoghS/Python-Interview-Problems-for-Practice)
 - [Python Interview - For fresher & experienxed - DataFlair](https://data--flair-training.cdn.ampproject.org/c/s/data-flair.training/blogs/django-interview-questions-and-answers/amp/)
 - [Django interview 150+](https://www.kausalvikash.in/python-django-interview-questions-and-answers-for-freshers/)
@@ -47,6 +52,7 @@
 - 
 <br>
 </details>
+
 ## Python Basic
 - [Python RWID](https://github.com/ArisPython/PythonDasarRWID)
 - [Python Erico](https://github.com/ArisPython/PythonDasarErico) --> [replit](https://replit.com/@winandiaris/PythonDasarErico)
