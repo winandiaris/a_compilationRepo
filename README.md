@@ -30,6 +30,7 @@
 
 <details>
   <summary>Algoritma</summary>
+  
 - [Algo - Data Structure - Youtube](https://github.com/ArisOther/pythonDataAlgoYoutube)
 - [Algo - Data Structure - Packt](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
 - [Algo - Data Structure - AllAlgo](https://github.com/AllAlgorithms/python)
