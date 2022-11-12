@@ -103,6 +103,9 @@
 - [Web Architecture]()
 - [Django Scaling Article](https://github.com/ArisDjango/DjangoBook/blob/main/DjangoScaling.md)
 
+## Software Development Management
+- [Scrum RWID](https://github.com/ArisOther/scrum)
+
 ## Other
 - [RabbitMQ - Ubuntu](https://www.rabbitmq.com/install-debian.html)
 ## ========================================
