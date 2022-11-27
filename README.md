@@ -1,6 +1,6 @@
 # PIM Project
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
-- [Oscar](#)
+- [Oscar](https://github.com/ArisDjango/pimoscar)
 - [appseed](#)
 - [saleor](#)
 - [wagtail](#)
