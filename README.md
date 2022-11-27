@@ -13,6 +13,7 @@
 - [Menpara - warehouse management](https://github.com/Deep-Menpara/Warehouse-Management-and-Analytics-App) --> stock progress bar
 - [MLIMS](https://github.com/mohilkhare1708/MLIMS) --> fullstack/mobile , flutter as barcode scanner, DRF as backend
 - [codeneriv](https://github.com/codenerix/django-codenerix-products) --> complete erp but with angular
+- [Akash-Warehouse](https://github.com/AkashKV-1998/Warehouse-Management-System) --> algorythm shortest supplier
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
