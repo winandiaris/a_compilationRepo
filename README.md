@@ -14,6 +14,8 @@
 - [MLIMS](https://github.com/mohilkhare1708/MLIMS) --> fullstack/mobile , flutter as barcode scanner, DRF as backend
 - [codeneriv](https://github.com/codenerix/django-codenerix-products) --> complete erp but with angular
 - [Akash-Warehouse](https://github.com/AkashKV-1998/Warehouse-Management-System) --> algorythm shortest supplier
+- [web-base catalog](https://github.com/Topbas-Tech/commercial-web-catalog-django)
+- [Catalog-search by image](https://github.com/fmunoztorrent/DjangoSearchByImage) --> with vision api
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
