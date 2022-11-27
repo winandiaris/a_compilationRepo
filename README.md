@@ -9,7 +9,7 @@
   - [atrotech-manufacturing](https://github.com/nimadorostkar/manufacturing-management)
   - [atrotech-sales assistant](https://github.com/nimadorostkar/Sales-Assistant)
   - [atrotech-user management](https://github.com/nimadorostkar/User-management-system)
-- etc
+- [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management)
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
