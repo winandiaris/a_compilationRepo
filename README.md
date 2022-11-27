@@ -3,7 +3,7 @@
 - [Oscar](https://github.com/ArisDjango/pimoscar)
 - [appseed](#)
 - [saleor](#)
-- [ralph](https://github.com/allegro/ralph)
+- [ralph](https://github.com/allegro/ralph) --> with import/export
 - [atrotech-production management](https://github.com/nimadorostkar/production-management)
 - [atrotech-manufacturing](https://github.com/nimadorostkar/manufacturing-management)
 - etc
