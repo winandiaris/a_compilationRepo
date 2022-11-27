@@ -12,6 +12,7 @@
 - [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management) --> end to end business flow
 - [Menpara - warehouse management](https://github.com/Deep-Menpara/Warehouse-Management-and-Analytics-App) --> stock progress bar
 - [MLIMS](https://github.com/mohilkhare1708/MLIMS) --> fullstack/mobile , flutter as barcode scanner, DRF as backend
+- [codeneriv](https://github.com/codenerix/django-codenerix-products) --> complete erp but with angular
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
