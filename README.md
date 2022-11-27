@@ -1,15 +1,15 @@
 # PIM Project
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
-- [Oscar](https://github.com/ArisDjango/pimoscar)
+- [Oscar](https://github.com/ArisDjango/pimoscar) --> without exim
 - [appseed](#)
-- [saleor](#)
+- [saleor](#) ---> instalation problem, hard to docker
 - [ralph](https://github.com/allegro/ralph) --> with import/export
 - atrotech
   - [atrotech-production management](https://github.com/nimadorostkar/production-management)
   - [atrotech-manufacturing](https://github.com/nimadorostkar/manufacturing-management)
   - [atrotech-sales assistant](https://github.com/nimadorostkar/Sales-Assistant)
   - [atrotech-user management](https://github.com/nimadorostkar/User-management-system)
-- [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management)
+- [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management) --> end to end business flow
 - [Menpara - warehouse management](https://github.com/Deep-Menpara/Warehouse-Management-and-Analytics-App) --> stock progress bar
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
