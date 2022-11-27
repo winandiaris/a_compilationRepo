@@ -10,6 +10,7 @@
   - [atrotech-sales assistant](https://github.com/nimadorostkar/Sales-Assistant)
   - [atrotech-user management](https://github.com/nimadorostkar/User-management-system)
 - [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management)
+- [Menpara - warehouse management](https://github.com/Deep-Menpara/Warehouse-Management-and-Analytics-App) --> stock progress bar
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
