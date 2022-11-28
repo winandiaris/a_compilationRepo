@@ -1,15 +1,15 @@
 # PIM Project
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
-- [Oscar](https://github.com/ArisDjango/pimoscar) --> without exim
+- [Oscar](https://github.com/ArisDjango/pimoscar) --> problem: without exim
 - [appseed](#)
 - [saleor](#) ---> instalation problem, hard to docker
 - [ralph](https://github.com/allegro/ralph) --> with import/export
 - atrotech
-  - [atrotech-production management](https://github.com/nimadorostkar/production-management)
+  - [atrotech-production management](https://github.com/nimadorostkar/production-management) problem: too simple, monolith
   - [atrotech-manufacturing](https://github.com/nimadorostkar/manufacturing-management)
   - [atrotech-sales assistant](https://github.com/nimadorostkar/Sales-Assistant)
   - [atrotech-user management](https://github.com/nimadorostkar/User-management-system)
-- [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management) --> end to end business flow
+- [SME-Inventory Management](https://github.com/hossainchisty/SME-Inventory-Management) --> end to end business flow --> problem: not yet finished
 - [Menpara - warehouse management](https://github.com/Deep-Menpara/Warehouse-Management-and-Analytics-App) --> stock progress bar
 - [MLIMS](https://github.com/mohilkhare1708/MLIMS) --> fullstack/mobile , flutter as barcode scanner, DRF as backend
 - [codeneriv](https://github.com/codenerix/django-codenerix-products) --> complete erp but with angular
