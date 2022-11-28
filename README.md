@@ -3,7 +3,8 @@
 - [Oscar](https://github.com/ArisDjango/pimoscar) --> problem: without exim
 - [appseed](#)
   - [Django-react](https://github.com/app-generator/sample-docker-django-react)
-  - [Django-softUI](#)
+  - Django-bootstrap5
+    - [Django-softui](https://github.com/ArisDjango/django-softui-aris)
 - [saleor](#) ---> instalation problem, hard to docker
 - [ralph](https://github.com/allegro/ralph) --> with import/export
 - atrotech
