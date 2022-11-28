@@ -2,6 +2,8 @@
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
 - [Oscar](https://github.com/ArisDjango/pimoscar) --> problem: without exim
 - [appseed](#)
+  - [Django-react](https://github.com/app-generator/sample-docker-django-react)
+  - [Django-softUI](#)
 - [saleor](#) ---> instalation problem, hard to docker
 - [ralph](https://github.com/allegro/ralph) --> with import/export
 - atrotech
