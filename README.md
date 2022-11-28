@@ -4,6 +4,7 @@
 - [appseed](#)
   - [Django-react](https://github.com/app-generator/sample-docker-django-react)
   - Django-bootstrap5
+    - [Django-materialkit](https://github.com/ArisDjango/django-materialkit-aris)
     - [Django-softui](https://github.com/ArisDjango/django-softui-aris)
 - [saleor](#) ---> instalation problem, hard to docker
 - [ralph](https://github.com/allegro/ralph) --> with import/export
