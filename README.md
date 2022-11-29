@@ -91,7 +91,12 @@
 - [git setting](https://github.com/ArisOther/gitAris)
 
 ## ==========================================
-
+## Django Antonio 4
+  - [All chapter](https://github.com/ArisDjango/DjangoAntonio4)
+    - [Blog](https://github.com/ArisDjango/DjangoAntonio4/tree/main/Chapter03)
+    - [Bookmarks-Sosmed](#)
+    - [E-commerce](#)
+    - [E-learning](#)
 ## Django - Monolith - Project
 - [CRUD - Employee App](https://github.com/ArisDjango/CrudEmployeeSimple) --> Bootstrap4, PostgreSQL, crispy forms, 
 - [Blog-Antonio](https://github.com/ArisDjango/BlogAntonio) --> html/js/css, PostgreSQL, Django form & ModelForm
