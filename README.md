@@ -94,7 +94,7 @@
 ## Django Antonio 4
   - [All chapter](https://github.com/ArisDjango/DjangoAntonio4)
     - [Blog](https://github.com/ArisDjango/DjangoAntonio4/tree/main/Chapter03)
-    - [Bookmarks-Sosmed](#)
+    - [Bookmarks-Sosmed](https://github.com/ArisDjango/DjangoAntonio4/tree/main/Chapter07)
     - [E-commerce](#)
     - [E-learning](#)
 ## Django - Monolith - Project
