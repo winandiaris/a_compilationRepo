@@ -1,5 +1,6 @@
 # PIM Project
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
+- [Auction](https://github.com/ArisDjango/AuctionDjango)
 - [Oscar](https://github.com/ArisDjango/pimoscar) --> problem: without exim
 - [appseed](#)
   - [Django-react](https://github.com/app-generator/sample-docker-django-react)
