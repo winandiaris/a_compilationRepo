@@ -1,5 +1,6 @@
 # PIM Project
 <details>
+  <summary>pim project</summary>
   
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
 - [Auction](https://github.com/ArisDjango/AuctionDjango)
@@ -24,6 +25,7 @@
 - [web-base catalog](https://github.com/Topbas-Tech/commercial-web-catalog-django)
 - [Catalog-search by image](https://github.com/fmunoztorrent/DjangoSearchByImage) --> with vision api
 </details>
+
 # Portfolio
 - [Source](https://github.com/ArisPython/portfolio)
 # BOOK
