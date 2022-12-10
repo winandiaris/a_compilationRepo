@@ -1,6 +1,7 @@
 # Django REST Framework
 <details>
   <summary>DRF</summary>
+  
 - DOCS CBV
   - [Class Based View](https://docs.djangoproject.com/en/4.1/topics/class-based-views/)
   - [Mixins](https://docs.djangoproject.com/en/4.1/topics/class-based-views/mixins/)
