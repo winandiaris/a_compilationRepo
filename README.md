@@ -1,8 +1,11 @@
 # Django REST Framework
 <details>
   <summary>DRF</summary>
-  
-- REFERENCE
+- DOCS CBV
+  - [Class Based View](https://docs.djangoproject.com/en/4.1/topics/class-based-views/)
+  - [Mixins](https://docs.djangoproject.com/en/4.1/topics/class-based-views/mixins/)
+  - [Class Based view guide](https://spapas.github.io/2018/03/19/comprehensive-django-cbv-guide/)
+- REFERENCE Git
   - [Django Rest Awesome](https://github.com/nioperas06/awesome-django-rest-framework)
 - PROJECT
   - Django For api --> [repo](https://github.com/ArisDjango/DjangoForApi) --> [Book](https://drive.google.com/file/d/1bxxF8TtzmGCOxcBr3d3CPtthdK5YGJRN/view)
