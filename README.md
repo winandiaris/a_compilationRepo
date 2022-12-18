@@ -18,6 +18,12 @@
 <details>
   <summary>pim project</summary>
   
+- Project one
+
+# PIM Idea
+<details>
+  <summary>pim idea</summary>
+  
 - [idea](https://github.com/ArisDjango/pim-idea/blob/main/README.md)
 - [Auction](https://github.com/ArisDjango/AuctionDjango)
 - [Oscar](https://github.com/ArisDjango/pimoscar) --> problem: without exim
