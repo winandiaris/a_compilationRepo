@@ -19,6 +19,7 @@
   <summary>pim project</summary>
   
 - Project one
+</details>
 
 # PIM Idea
 <details>
