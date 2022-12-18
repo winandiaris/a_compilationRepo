@@ -63,6 +63,9 @@
 - [Orbit - AWS Practitioner](https://github.com/ArisOther/Orbit-aws)
 - [Book - AWS Practitioner](https://github.com/ArisOther/aws_book) --> [Book](https://drive.google.com/file/d/1_YkuFkQ6uKjqOqMCiMKeGThRLdYQQWF1/view?usp=sharing)
 # AI / Data Science 
+<details>
+  <summary>ai data science</summary>
+  
 - Data Science
   - Real world data science --> [google-collab](https://colab.research.google.com/drive/1IHN7qcaBUgr1vZ5YZPQTBsAEcKg0e_c5) --> [Book-2016](https://drive.google.com/file/d/1oQsW7_r7UtTKMBzqyvQ-_HDBj00KV-k-/view)
   - Data Science Bootcamp 2022: 5 Data Science --> [udemy](https://www.udemy.com/course/data-science-bootcamp-with-python/learn/lecture/25470578?start=15#overview)
@@ -74,12 +77,17 @@
   - [Big Data analytics concepts](https://github.com/ArisArtificial/bigdata/blob/main/README.md) --> Book offline
   - Data engineer in production , AWS, GCP, pyspark dll --> [Book](https://drive.google.com/file/d/19-_753cKqgI1vvpca4u9HRhQa30x8ynb/view?usp=sharing)
   - Data Engineering IBM --> [coursera (inactive)](https://www.coursera.org/professional-certificates/ibm-data-engineer#courses) --> [source](#)
-  
+</details>
+
 # FRONTEND / FULLSTACK
+<details>
+  <summary>frontend</summary>
+  
 - [React](https://github.com/winandiaris/b_other/blob/main/react-collection.md)
   - MaterialUI --> [Documentation](https://mui.com/material-ui/getting-started/installation/) --> [repo](https://github.com/ArisReactNode/MaterialUi)
   - Fullstack React with typescript & Next --> [Book](https://drive.google.com/file/d/1oZpbc4eR2GABea1djTQk-9UibtHtRQ8n/view)
   - Shama_Hoque_Full_Stack_React_Projects_Learn_MERN_stack_development --> [Book](https://drive.google.com/file/d/18AKMHrB4YmMwDNo4-ydEbVDON8OL9Ln6/view?usp=sharing)
+</details>
 # BACKEND
 ## Algoritma & Interview
 
