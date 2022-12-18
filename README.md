@@ -17,6 +17,7 @@
 # PIM Project
 <details>
   <summary>pim project</summary>
+  
 - [pim indospace 2](https://github.com/ArisDjango/pim-indospace2)
 - [pim indospace 1](https://github.com/ArisDjango/pim-indospace) --> model pim dengan frontend bootstrap
 - [Indospace blog](https://github.com/ArisDjango/indospace)
