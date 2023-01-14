@@ -8,6 +8,7 @@
     - Main repo for current
   - minus:
     - need upgrade to django4
+- http://34.101.137.171:8000/ --> SB admin 
 - http://34.101.137.171:5085/ --> adminlte-appseed  --> repo: https://github.com/ArisDjango/django-adminlte
   - plus:
     - Django + adminlte berhasil
