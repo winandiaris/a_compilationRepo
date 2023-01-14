@@ -31,7 +31,7 @@
  
  - https://github.com/droxey/docker-django --> django 3.0.1, bootstrap, docker
  - https://github.com/NoahFinberg/djangostarterproject --> POTENTIONAL, django 3.1, cb bootstrap, docker, vid https://www.youtube.com/watch?v=4seIp_kaaWM
-<details>
+</details>
 </details>
 
 <details>
