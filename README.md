@@ -1,6 +1,23 @@
 # PIM Project
+
 <details>
-  <summary>pim project</summary>
+  <summary>pim project deployed</summary>
+  
+- http://34.101.137.171:8001/ --> repo : https://github.com/ArisDjango/pim-indospace3
+  - Main repo for current
+  - need upgrade to django4
+- [pim indospace 1](https://github.com/ArisDjango/pim-indospace) --> model pim dengan frontend bootstrap
+- [Indospace blog](https://github.com/ArisDjango/indospace) --> blog antonio 4
+</details>
+<details>
+  <summary>pim idea/summary>
+  
+- [pim indospace 2](https://github.com/ArisDjango/pim-indospace2)
+- [pim indospace 1](https://github.com/ArisDjango/pim-indospace) --> model pim dengan frontend bootstrap
+- [Indospace blog](https://github.com/ArisDjango/indospace) --> blog antonio 4
+</details>
+<details>
+  <summary>pim project Old</summary>
   
 - [pim indospace 2](https://github.com/ArisDjango/pim-indospace2)
 - [pim indospace 1](https://github.com/ArisDjango/pim-indospace) --> model pim dengan frontend bootstrap
