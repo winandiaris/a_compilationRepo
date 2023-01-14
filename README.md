@@ -26,6 +26,7 @@
     - Belum terimplementasi dengan docker
     - versi django, adminlte, dan code lama 3.1.1
 </details>
+<details>
  <summary>idea</summary>
  
  - https://github.com/droxey/docker-django --> django 3.0.1, bootstrap, docker
